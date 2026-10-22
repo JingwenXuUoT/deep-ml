@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**3** solved · 2 problems · 0 labs · 1 math
+**4** solved · 3 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Compute Arithmetic Intensity and Classify Bottleneck](https://www.deep-ml.com/problems/414) | easy | 2026-10-22 | [solution](problems/0414-compute-arithmetic-intensity-and-classify-bottleneck) |
 | [Compute TTFT ITL and TPS from a Token Timestamp Stream](https://www.deep-ml.com/problems/411) | easy | 2026-10-15 | [solution](problems/0411-compute-ttft-itl-and-tps-from-a-token-timestamp-stream) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-10-22 | [solution](problems/0413-end-to-end-latency-decomposition) |
 
