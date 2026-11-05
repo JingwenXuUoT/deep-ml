@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T17:58:34.897Z",
+  "generated_at": "2026-11-05T17:59:01.918Z",
   "items": {
     "math:62": {
       "kind": "math",
@@ -60,9 +60,9 @@
       "url": "https://www.deep-ml.com/problems/356",
       "path": "problems/0356-label-encoding-for-ordinal-variables",
       "first_solved_at": "2026-11-05T17:58:32.220Z",
-      "last_pushed_at": "2026-11-05T17:58:32.220Z",
+      "last_pushed_at": "2026-11-05T17:58:59.613Z",
       "language": "python",
-      "lines": 25
+      "lines": 8
     }
   }
 }
