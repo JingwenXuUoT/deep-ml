@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 10 problems · 0 labs · 1 math
+**12** solved · 11 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Compute Arithmetic Intensity and Classify Bottleneck](https://www.deep-ml.com/problems/414) | easy | 2026-10-22 | [solution](problems/0414-compute-arithmetic-intensity-and-classify-bottleneck) |
 | [Compute TTFT ITL and TPS from a Token Timestamp Stream](https://www.deep-ml.com/problems/411) | easy | 2026-10-15 | [solution](problems/0411-compute-ttft-itl-and-tps-from-a-token-timestamp-stream) |
+| [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-11-05 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
 | [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-11-05 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
 | [Boxed Answer Extraction for Math Benchmarks](https://www.deep-ml.com/problems/318) | medium | 2026-11-05 | [solution](problems/0318-boxed-answer-extraction-for-math-benchmarks) |
 | [Code Execution Verifier for Programming Benchmarks](https://www.deep-ml.com/problems/324) | medium | 2026-11-05 | [solution](problems/0324-code-execution-verifier-for-programming-benchmarks) |
