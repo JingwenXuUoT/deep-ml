@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 9 problems · 0 labs · 1 math
+**11** solved · 10 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Boxed Answer Extraction for Math Benchmarks](https://www.deep-ml.com/problems/318) | medium | 2026-11-05 | [solution](problems/0318-boxed-answer-extraction-for-math-benchmarks) |
 | [Code Execution Verifier for Programming Benchmarks](https://www.deep-ml.com/problems/324) | medium | 2026-11-05 | [solution](problems/0324-code-execution-verifier-for-programming-benchmarks) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-10-22 | [solution](problems/0413-end-to-end-latency-decomposition) |
+| [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-11-05 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-11-05 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-11-05 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Rubric-Based LLM Judge Evaluation](https://www.deep-ml.com/problems/317) | medium | 2026-11-05 | [solution](problems/0317-rubric-based-llm-judge-evaluation) |
