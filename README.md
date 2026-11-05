@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 5 problems · 0 labs · 1 math
+**7** solved · 6 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-11-05 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-10-22 | [solution](problems/0413-end-to-end-latency-decomposition) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-11-05 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
+| [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-11-05 | [solution](problems/0316-mmlu-log-probability-scoring) |
 
 ## Math
 
