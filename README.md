@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 13 problems · 0 labs · 1 math
+**15** solved · 14 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Math Answer Verification with Equivalence Checking](https://www.deep-ml.com/problems/319) | medium | 2026-11-13 | [solution](problems/0319-math-answer-verification-with-equivalence-checking) |
 | [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-11-05 | [solution](problems/1129-merge-multiple-dataframes) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-11-05 | [solution](problems/0316-mmlu-log-probability-scoring) |
+| [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-11-17 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
 | [Rubric-Based LLM Judge Evaluation](https://www.deep-ml.com/problems/317) | medium | 2026-11-05 | [solution](problems/0317-rubric-based-llm-judge-evaluation) |
 
 ## Math
