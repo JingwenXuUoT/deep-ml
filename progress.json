@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T19:46:05.850Z",
+  "generated_at": "2026-11-17T19:58:28.877Z",
   "items": {
     "math:62": {
       "kind": "math",
@@ -206,6 +206,19 @@
       "last_pushed_at": "2026-11-17T19:46:04.650Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:383": {
+      "kind": "problem",
+      "id": "383",
+      "title": "Top-p (Nucleus) Sampling",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/383",
+      "path": "problems/0383-top-p-nucleus-sampling",
+      "first_solved_at": "2026-11-17T19:58:27.965Z",
+      "last_pushed_at": "2026-11-17T19:58:27.965Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
