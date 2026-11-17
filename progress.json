@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T20:15:43.065Z",
+  "generated_at": "2026-11-17T20:36:24.461Z",
   "items": {
     "math:62": {
       "kind": "math",
@@ -232,6 +232,19 @@
       "last_pushed_at": "2026-11-17T20:15:42.283Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:2007": {
+      "kind": "problem",
+      "id": "2007",
+      "title": "Rule-Based Reward: Accuracy Plus Format",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/2007",
+      "path": "problems/2007-rule-based-reward-accuracy-plus-format",
+      "first_solved_at": "2026-11-17T20:36:23.730Z",
+      "last_pushed_at": "2026-11-17T20:36:23.730Z",
+      "language": "python",
+      "lines": 84
     }
   }
 }
